@@ -1,7 +1,7 @@
 module Main where
 
 import qualified MyLib (someFunc)
-import Hangman
+import Hangman (*)
 
 main :: IO ()
 main = do
